@@ -1,0 +1,23 @@
+.header{
+    width: 100%;
+    height: 800px;
+    display: grid;
+    .pantallaJuego{
+        justify-self: center;
+        align-self: center;
+        width: 450px;
+        height: 80%;
+        border: 1px solid white;
+        border-radius: 25px;
+        .tableroJuego{
+            display: grid;
+            height: 100%;
+            grid-template-rows: 1fr 1fr;
+            .opcionFacil{
+                align-self: end;
+                margin-bottom: 30px;
+            }
+            
+        }
+    }
+}
