@@ -61,7 +61,7 @@ export default function juegoDificil() {
 
                                     <div class="cincoOpcaba">
                                         <div class="circulo btnCirculo ubicLizard circuloLizard circuloConcoOpc" id="lizard">
-                                            <img class="img-piedra" src="./images/icon-Lizard.svg" alt="">
+                                            <img class="img-lizard" src="./images/icon-lizard.svg" alt="">
                                         </div>
                                         <div class="circulo btnCirculo ubicRock circuloRock circuloConcoOpc" id="rock">
                                             <img class="img-piedra" src="./images/icon-rock.svg" alt="">
